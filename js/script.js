@@ -9,7 +9,7 @@ $(document).ready(function() {
   });
 
   $('#mygallery').justifiedGallery({
-        rowHeight: 150,
+        rowHeight: 180,
         margins: 5,
         rel: 'gallery1',
       }).on('jg.complete', function () {
